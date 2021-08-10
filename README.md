@@ -1,5 +1,0 @@
-##Aws
-
-Billing section
-
----
